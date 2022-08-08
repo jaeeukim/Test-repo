@@ -2,7 +2,7 @@
 name: "✨New Feature"
 about: 새로운 기능을 추가 할 때 작성해 주세요.
 title: "[✨FEAT] : 타이틀 입력"
-labels: ''
+labels: "✨FEATURE"
 assignees: ''
 
 ---

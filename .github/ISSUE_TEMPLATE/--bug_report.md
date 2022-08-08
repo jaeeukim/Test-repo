@@ -2,7 +2,7 @@
 name: "\U0001F41EBug report"
 about: Bug 발생 시 작성해 주세요.
 title: "[BUG] : 타이틀 입력"
-labels: "✨FEATURE"
+labels: "\U0001F41BBUG"
 assignees: ''
 
 ---
